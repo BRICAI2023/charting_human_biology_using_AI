@@ -73,13 +73,5 @@ Central to our methodology is the integration of AI, which enables the rational 
 
 MatchMiner is an open source platform for cancer precision medicine, supporting clinical trial enrollments at Dana-Farber Cancer Institute. Clinical trials in precision oncology frequently face challenges with patient enrollment, partly due to the difficulty of finding patients which simultaneously meet eligibility criteria and are ready to change treatment. To address these challenges we initiated a study using AI tools to assist in identifying the right time to alert a physician about patient eligibility.
 
-### Other confirmed speakers 
-
-![](images/etai.jpeg){width=30%}
-
-[Dr.Etai Jacob](https://www.linkedin.com/in/etaijacob/) is the Senior Director, Head of Data Science and AI, Early Oncology at AstraZeneca.
-
-[John Gaspar](https://www.linkedin.com/in/john-gaspar-2241319b/) Data Science and Bioinformatics Team Lead at Merck.
-
 
 
